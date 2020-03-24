@@ -1,8 +1,0 @@
-C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.DAL\bin\Debug\netcoreapp2.1\Shopping.DAL.deps.json
-C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.DAL\bin\Debug\netcoreapp2.1\Shopping.DAL.dll
-C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.DAL\bin\Debug\netcoreapp2.1\Shopping.DAL.pdb
-C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.DAL\obj\Debug\netcoreapp2.1\Shopping.DAL.csproj.CoreCompileInputs.cache
-C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.DAL\obj\Debug\netcoreapp2.1\Shopping.DAL.AssemblyInfoInputs.cache
-C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.DAL\obj\Debug\netcoreapp2.1\Shopping.DAL.AssemblyInfo.cs
-C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.DAL\obj\Debug\netcoreapp2.1\Shopping.DAL.dll
-C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.DAL\obj\Debug\netcoreapp2.1\Shopping.DAL.pdb
