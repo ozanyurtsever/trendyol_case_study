@@ -1,0 +1,16 @@
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.UI.deps.json
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.UI.runtimeconfig.json
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.UI.runtimeconfig.dev.json
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.UI.dll
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.UI.pdb
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\obj\Debug\netcoreapp2.1\ShoppingCard.UI.csprojAssemblyReference.cache
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\obj\Debug\netcoreapp2.1\ShoppingCard.UI.csproj.CoreCompileInputs.cache
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\obj\Debug\netcoreapp2.1\ShoppingCard.UI.AssemblyInfoInputs.cache
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\obj\Debug\netcoreapp2.1\ShoppingCard.UI.AssemblyInfo.cs
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\obj\Debug\netcoreapp2.1\ShoppingCard.UI.dll
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\obj\Debug\netcoreapp2.1\ShoppingCard.UI.pdb
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.Business.dll
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.DAL.dll
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.Business.pdb
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\bin\Debug\netcoreapp2.1\ShoppingCard.DAL.pdb
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.UI\obj\Debug\netcoreapp2.1\ShoppingCard.UI.csproj.CopyComplete

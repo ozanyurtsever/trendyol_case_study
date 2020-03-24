@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Trendyol.Shopping.Business</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Coupons\Abstract\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ConsoleTables" Version="2.4.1" />
+  </ItemGroup>
+
+</Project>

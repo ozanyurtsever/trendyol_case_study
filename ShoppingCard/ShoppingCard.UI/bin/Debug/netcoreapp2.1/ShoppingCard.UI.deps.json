@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ShoppingCard.UI/1.0.0": {
+        "dependencies": {
+          "ShoppingCard.Business": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCard.UI.dll": {}
+        }
+      },
+      "ShoppingCard.Business/1.0.0": {
+        "dependencies": {
+          "ShoppingCard.DAL": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCard.Business.dll": {}
+        }
+      },
+      "ShoppingCard.DAL/1.0.0": {
+        "runtime": {
+          "ShoppingCard.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingCard.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingCard.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingCard.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

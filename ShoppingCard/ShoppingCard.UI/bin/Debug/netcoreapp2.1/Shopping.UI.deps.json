@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Shopping.UI/1.0.0": {
+        "dependencies": {
+          "Shopping.Business": "1.0.0"
+        },
+        "runtime": {
+          "Shopping.UI.dll": {}
+        }
+      },
+      "Shopping.Business/1.0.0": {
+        "dependencies": {
+          "Shopping.DAL": "1.0.0"
+        },
+        "runtime": {
+          "Shopping.Business.dll": {}
+        }
+      },
+      "Shopping.DAL/1.0.0": {
+        "runtime": {
+          "Shopping.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shopping.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shopping.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shopping.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

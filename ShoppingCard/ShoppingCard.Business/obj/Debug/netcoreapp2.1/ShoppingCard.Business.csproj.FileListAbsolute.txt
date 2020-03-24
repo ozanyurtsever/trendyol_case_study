@@ -1,0 +1,12 @@
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\bin\Debug\netcoreapp2.1\ShoppingCard.Business.deps.json
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\bin\Debug\netcoreapp2.1\ShoppingCard.Business.dll
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\bin\Debug\netcoreapp2.1\ShoppingCard.Business.pdb
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\obj\Debug\netcoreapp2.1\ShoppingCard.Business.csprojAssemblyReference.cache
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\obj\Debug\netcoreapp2.1\ShoppingCard.Business.csproj.CoreCompileInputs.cache
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\obj\Debug\netcoreapp2.1\ShoppingCard.Business.AssemblyInfoInputs.cache
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\obj\Debug\netcoreapp2.1\ShoppingCard.Business.AssemblyInfo.cs
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\obj\Debug\netcoreapp2.1\ShoppingCard.Business.dll
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\obj\Debug\netcoreapp2.1\ShoppingCard.Business.pdb
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\bin\Debug\netcoreapp2.1\ShoppingCard.DAL.dll
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\bin\Debug\netcoreapp2.1\ShoppingCard.DAL.pdb
+C:\Users\ozany\Desktop\Trendyol\ShoppingCard\ShoppingCard.Business\obj\Debug\netcoreapp2.1\ShoppingCard.Business.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\ozany\Desktop\TrendyolCaseStudy\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.csproj.CoreCompileInputs.cache
+C:\Users\ozany\Desktop\TrendyolCaseStudy\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.AssemblyInfoInputs.cache
+C:\Users\ozany\Desktop\TrendyolCaseStudy\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.AssemblyInfo.cs
+C:\Users\ozany\Desktop\TrendyolCaseStudy\Trendyol\Shopping.Business\bin\Debug\netcoreapp2.1\Shopping.Business.deps.json
+C:\Users\ozany\Desktop\TrendyolCaseStudy\Trendyol\Shopping.Business\bin\Debug\netcoreapp2.1\Shopping.Business.dll
+C:\Users\ozany\Desktop\TrendyolCaseStudy\Trendyol\Shopping.Business\bin\Debug\netcoreapp2.1\Shopping.Business.pdb
+C:\Users\ozany\Desktop\TrendyolCaseStudy\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.dll
+C:\Users\ozany\Desktop\TrendyolCaseStudy\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.pdb
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\bin\Debug\netcoreapp2.1\Shopping.Business.deps.json
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\bin\Debug\netcoreapp2.1\Shopping.Business.dll
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\bin\Debug\netcoreapp2.1\Shopping.Business.pdb
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.csprojAssemblyReference.cache
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.csproj.CoreCompileInputs.cache
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.AssemblyInfoInputs.cache
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.AssemblyInfo.cs
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.dll
+C:\Users\ozany\Desktop\Trendyol\Shopping.Business\obj\Debug\netcoreapp2.1\Shopping.Business.pdb
